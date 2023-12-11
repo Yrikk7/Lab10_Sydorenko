@@ -1,0 +1,40 @@
+body {
+    background-image:url(photo/spase.jpg);
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-style: italic;
+    font-size:16;
+    color: blanchedalmond;    
+}
+a:link {    
+    color: rgb(209, 32, 192);
+}
+a:active {
+    color: blue;
+}
+a:visited {
+    color: rgb(140, 198, 148);
+}
+h1 {
+    font-weight:200 ;
+    text-align:center ;
+    color: chartreuse;
+}
+p {
+    margin-bottom: 10;
+    text-align: justify;
+}
+.class1 {
+    
+    color: rgb(219, 227, 115);
+}
+div {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+img {
+    width: 400;
+    height: 200;
+}
